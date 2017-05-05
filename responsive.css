@@ -1,0 +1,66 @@
+@media (max-width: 415px)
+{
+    .body-section .imagine
+    {
+        font-size: 25px;
+
+        padding-top: 50px;
+        padding-bottom: 100px;
+    }
+    .middle-section .tla
+    {
+        padding: 0 30px;
+    }
+    .benefits
+    {
+        display: block;
+
+        width: 100%;
+    }
+    .clients .omni
+    {
+        display: inline-block;
+
+        height: auto;
+        margin-bottom: 40px;
+        margin-left: 0;
+    }
+    .case-study .vizeum
+    {
+        width: 100%;
+        height: auto;
+        margin-left: 0;
+    }
+    .case-study .feature-section .feature
+    {
+        font-size: 18px;
+
+        width: 41%;
+        margin-bottom: 50px;
+        padding-bottom: 20px;
+    }
+    .case-study .feature-section
+    {
+        width: 100%;
+        margin-bottom: 0;
+        margin-left: 11px;
+    }
+    .testimonial
+    {
+        margin-top: 60px;
+    }
+    .testimonial .testimonial-header
+    {
+        width: 49%;
+        padding-bottom: 35px;
+    }
+    .testimonial .testimonial-quote
+    {
+        padding: 15px 15px;
+    }
+    .semi-footer .red
+    {
+        width: 100%;
+        min-height: 100px;
+    }
+}
